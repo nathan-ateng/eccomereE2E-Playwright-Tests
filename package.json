@@ -1,0 +1,22 @@
+{
+  "name": "eccomereE2E-Playwright-Tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-ateng/eccomereE2E-Playwright-Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-ateng/eccomereE2E-Playwright-Tests/issues"
+  },
+  "homepage": "https://github.com/nathan-ateng/eccomereE2E-Playwright-Tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10"
+  }
+}
